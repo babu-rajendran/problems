@@ -1,0 +1,79 @@
+1
+Lasagna
+Entree
+13.00
+2
+3
+
+2
+Meat Sauce
+Ingredient
+
+3
+Cheese Mixture
+Ingredient
+
+4
+Garlic Bread
+Appetizer
+4.50
+5
+6
+
+5
+Garlic Butter
+Ingredient
+
+6
+Baguette
+Ingredient
+
+7
+Spaghetti Bolognese
+Entree
+12.00
+
+8
+Spaghetti Noodles
+Ingredient
+
+9
+Caprese Salad
+Appetizer
+6.00
+10
+11
+12
+
+10
+Fresh Mozzarella
+Ingredient
+
+11
+Tomato Slices
+Ingredient
+
+12
+Basil Leaves
+Ingredient
+
+13
+Chicken Parmesan
+Entree
+14.50
+14
+15
+3
+
+14
+Breaded Chicken Cutlet
+Ingredient
+
+15
+Marinara Sauce
+Ingredient
+
+16
+Tiramisu
+Appetizer
+5.50

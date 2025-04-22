@@ -1,0 +1,27 @@
+interface MenuStream {
+
+     String readLine();
+
+}
+There is a continuous stream of menu items. Read using the above interface and construct objects of
+Menu items. The item type could be DISH, SOUP, INGREDIENT. Ingredient does not have a price. After the
+line which contains price, there would be other line items which are menu item themselves. Each distinct
+menu is separated by an empty line. You should keep reading the line and build MenuItem objects until you
+hit null when you call readLine().
+
+Here is part of the menu stream:
+
+1
+Lasagna
+Entree
+13.00
+2
+3
+
+2
+Meat Sauce
+Ingredient
+
+3
+Cheese Mixture
+Ingredient

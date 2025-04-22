@@ -1,0 +1,11 @@
+Create a class with 1 public method to format string as follows:
+
+* Words in input string are separated by underscore
+* Each word needs to be converted to PascalCase
+* Prefix and suffix underscores to be retained in result
+
+Ex:
+
+__hello___world__!___ => __HelloWorld!___
+
+*/
