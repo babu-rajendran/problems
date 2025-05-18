@@ -28,6 +28,24 @@ import java.util.PriorityQueue;
  * Returns
  *
  * int: the smallest number of dock bays d to unload all the cargo within maxTurnaroundTime minutes.
+ *
+ * Example 1:
+ *
+ * Input:  truckCargoSize = [3, 4, 3, 2, 3], maxTurnaroundTime = 8
+ * Output: 3
+ * Explanation:
+ *
+ * Attemping with two dock bays (d = 2):
+ *
+ * Truck Processing Timeline for 2 Dock1 Bays:
+ * With two dock bays, all trucks unloaded in 9 minutes, which exceeds the maxTurnaroundTime of 8 minutes:
+ *
+ * Attempting with three dock bays (d = 3):
+ *
+ * With three dock bays, all trucks are unloaded in 6 minutes, which is within the maxTurnaroundTime of 8 minutes.
+ *
+ * So, the minimum number of dock bays required to unload all trucks within 8 minutes is 3.
+ *
  */
 
 public class WarehouseScheduler {
