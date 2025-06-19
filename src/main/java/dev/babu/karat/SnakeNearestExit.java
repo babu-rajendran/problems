@@ -157,7 +157,7 @@ public class SnakeNearestExit {
             }
 
         }
-        return (result[0] == -1 && result[1] == -1) ? null : result;
+        return result;
     }
 
     private static boolean isOnEdge(int row, int column, int rows, int columns) {
