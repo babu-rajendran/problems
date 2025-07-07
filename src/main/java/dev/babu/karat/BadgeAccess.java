@@ -6,7 +6,7 @@ public class BadgeAccess {
 
     /**
      * All employees who didn't use their badge while exiting the room
-     *  – they recorded an enter without a matching exix
+     *  – they recorded an enter without a matching exit
      * All employees who didn't use their badge while entering the room
      *  – they recorded an exit without a matching enter
      *
